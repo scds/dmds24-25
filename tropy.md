@@ -1,21 +1,19 @@
 ---
 layout: default
-title: Creating Exhibitions with Omeka S
-nav_order: 2024.775
+title: Streamline Your Research Materials Photos
+nav_order: 1900
 ---
 
-<img src="assets/img/omeka.png" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/tropy.png" alt="Workshop Title Slide" width="100%">
 
-# Creating Exhibitions with Omeka S
+# Streamline Your Research Materials Photos
 
-Learn how to use Omeka S to manage digital collections and create scholarly exhibits. This tutorial will introduce participants to the basic functions of Omeka S, including how to create an archival item collection, add metadata, and build a digital exhibit.
+
 
 ## Workshop Preparation 
 
-
 ## Facilitator Bios
 
-Subhanya Sivajothy (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user. She also has experience in Research Data Management—particularly data cleaning and curation. Do not hesitate to reach out to her if you would like to talk more about data analysis and visualization as they evolve throughout the research process.
 
 <!--
 ## Contents
