@@ -9,6 +9,7 @@ nav_order: 1900
 # Streamline Your Research Materials Photos
 
 
+[Register for this workshop](.){: .btn .btn-outline }
 
 ## Workshop Preparation 
 

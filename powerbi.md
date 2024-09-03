@@ -10,6 +10,8 @@ nav_order: 2024.850
 
 This workshop covers the basic of using Power BI to create visualizations. We will look at data cleaning, creating impactful charts, and building interactive dashboards. Discover how to tell your data story effectively and make informed decisions. No previous experience needed. 
 
+[Register for this workshop](.){: .btn .btn-outline }
+
 ## Workshop Preparation 
 Access to Power BI is required. McMaster members can access the desktop or online version [here](https://office365.mcmaster.ca/office-365-3/applications/power-bi/getting-started-with-power-bi/). Those without access to Power BI through their organization may be able to access a [free trial](https://www.microsoft.com/en-us/power-platform/products/power-bi/getting-started-with-power-bi) via Microsoft.
 

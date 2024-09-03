@@ -8,6 +8,7 @@ nav_order: 2025.181
 
 # Introduction to Critical Digital Humanities
 
+[Register for this workshop](.){: .btn .btn-outline }
 
 ## Workshop Preparation 
 

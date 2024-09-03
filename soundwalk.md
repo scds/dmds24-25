@@ -8,6 +8,7 @@ nav_order: 1900
 
 # Soundwalking and Countermapping: Explore our campus through field recording and careful listening
 
+[Register for this workshop](.){: .btn .btn-outline }
 
 
 ## Workshop Preparation 

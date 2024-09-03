@@ -8,6 +8,7 @@ nav_order: 1900
 
 # 2024 SCDS Graduate Colloquium
 
+[Register for this workshop](.){: .btn .btn-outline }
 
 ## Workshop Preparation 
 
