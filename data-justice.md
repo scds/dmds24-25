@@ -17,6 +17,11 @@ In this 1-hour webinar, learn more about cybersecurity and data justice. We'll s
 
 ## Facilitator Bios
 
+Danica Evering holds broad experience with research support, education, project management, advocacy, and knowledge translation; with fluency in social practice art, healthcare, community research, data, and systems development. Danica supports students, postdocs, faculty, and staff with RDM through the data lifecycle—Data Management Plans, storage and backup, data security, data sharing. With an MA in Media Studies from Concordia, they are interested in fostering RDM within curious scholars and disciplines.
+
+Subhanya Sivajothy (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user.
+
+Andrea Zeffiro (she/her) is an Associate Professor in critical technology studies in the Department of Communication Studies and Media Arts and an affiliate faculty member in the Master of Public Policy in Digital Society program and the Cultural Studies and Critical Theory MA program. Andrea received a Ph.D. in Communication Studies from Concordia University and was a postdoctoral fellow at the School of Interactive Arts and Technology at Simon Fraser University. Andrea’s current areas of research and teaching include critical data studies, data justice, critical cybersecurity studies, qualitative digital research methods, and critical and speculative design.
 
 <!--
 ## Contents
