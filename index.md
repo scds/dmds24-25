@@ -17,11 +17,12 @@ nav_order: 1
 
 What is digital scholarship, how can I do more with it, and how can it contribute to my research and teaching? Join us for our free workshop series that introduces McMaster students, faculty, and staff to the multifaceted domain of digital scholarship.
 
+Join us to: 
 - Develop skills for professionalization.
-- Learn to use software including Audacity, Gephi, Obsidian, OpenRefine, Python, Two Tone, and Voyant.
-- Engage with faculty, staff, and students with all levels of technical expertise.
-- Explore digital approaches to research and knowledge mobilization. 
-- Discover opportunities for collaboration.
+- Learn to use software to create digital exhibits, perform data analysis and create dashboards, and organize your research images.
+- Engage with faculty, staff, and students on a wide range of topics.
+- Learn more about digital approaches to research and knowledge mobilization.
+- Explore the intersections between digital scholarship and critical humanities; cybersecurity and data justice. 
 
 ## 2024-25 DMDS Workshops
 
