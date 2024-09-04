@@ -9,7 +9,7 @@ nav_order: 2025.178
 # Introduction to Critical Digital Humanities
 Join us for a workshop that introduces the field of Critical Digital Humanities. This interdisciplinary field emphasizes questions of power, social justice, and critical theory in the creation and analysis of digital projects. Through interactive discussions, hands-on exercises, and case studies we will explore the potential in these tools for social and political transformation. This workshop will introduce you to the knowledge and skills to utilize digital tools for research, analysis, and visualization, and ask questions from critical perspectives, and collaborate with others to advance social justice and equity.
 
-[Register for this workshop](.){: .btn .btn-outline }
+[Register for this workshop](https://libcal.mcmaster.ca/calendar/scds/crit-digital-humanities){: .btn .btn-outline }
 
 ## Workshop Preparation 
 None. 

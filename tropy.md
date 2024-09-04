@@ -15,7 +15,7 @@ Upon completion of this workshop, you should be able to:
 2. Select appropriate metadata and implement documentation and tagging systems.
 3. Integrate Tropy with Zotero and Omeka to cite archival sources and enhance the impact of your research and digital exhibitions.
 
-[Register for this workshop](.){: .btn .btn-outline }
+[Register for this workshop](https://libcal.mcmaster.ca/calendar/scds/tropy){: .btn .btn-outline }
 
 ## Workshop Preparation 
 No prior knowledge of Tropy will be required but please come with: 
