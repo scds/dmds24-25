@@ -4,7 +4,7 @@ title: Build Your Own Chatbot: Local Applications in Generative AI
 nav_order: 2024.867
 ---
 
-<img src="assets/img/powerbi.png" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/chatbot.png" alt="Workshop Title Slide" width="100%">
 
 # Build Your Own Chatbot: Local Applications in Generative AI on your Laptop
 
