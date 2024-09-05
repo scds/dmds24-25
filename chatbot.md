@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Build Your Own Chatbot: Local Applications in Generative AI
+title: Build Your Own Chatbot--Local Applications in Generative AI
 nav_order: 2024.867
 ---
 
