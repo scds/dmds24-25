@@ -8,7 +8,7 @@ nav_order: 2024.867
 
 # Build Your Own Chatbot: Local Applications in Generative AI on your Laptop
 
-Everyone is familiar with cloud-based generative AI, like ChatGPT. However, the driving technology behind most modern AI systems -- the transformers-based Larage Language Model architecture -- is flexible enough to run on recent commodity hardware like your latop.
+Everyone is familiar with cloud-based generative AI, like ChatGPT. However, the driving technology behind most modern AI systems -- the transformers-based Larage Language Model architecture -- is flexible enough to run on recent commodity hardware like your laptop.
 
 In this **in person** workshop, we will explore the technology behind AI systems and set up and use a basic AI on your laptop you can chat with.
 
