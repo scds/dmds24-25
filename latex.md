@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction to Typesetting with LaTeX
-nav_order: 2024.844
+nav_order: 2024.847
 ---
 
 <img src="assets/img/latex.png" alt="Workshop Title Slide" width="100%">
