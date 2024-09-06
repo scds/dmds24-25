@@ -13,10 +13,9 @@ Learn how to use Omeka S to manage digital collections and create scholarly exhi
 [Register for this workshop](https://libcal.mcmaster.ca/calendar/scds/omeka){: .btn .btn-outline }
 
 ## Workshop Preparation 
-*Coming soon.*
+Workshop participants will use the Omeka S sandbox available on the [Omeka.org website](https://omeka.org/s/download/#sandbox). No signup is required, though work will not be saved.
 
 ## Facilitator Bio
-
 Subhanya Sivajothy (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user.
 
 <!--
