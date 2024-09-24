@@ -11,9 +11,6 @@ Join us for a workshop that introduces the field of Critical Digital Humanities.
 
 [Register for this workshop](https://libcal.mcmaster.ca/calendar/scds/crit-digital-humanities){: .btn .btn-outline }
 
-## Workshop Preparation 
-None. 
-
 ## Facilitator Bios
 Subhanya Sivajothy (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user.
 

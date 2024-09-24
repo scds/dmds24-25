@@ -14,22 +14,12 @@ In this tutorial, we will discuss tools for writing in LaTeX, the structural ele
 
 [Register for this workshop](https://libcal.mcmaster.ca/calendar/scds/latex){: .btn .btn-outline }
 
-## Workshop Preparation 
-
-
 ## Facilitator Bios
 
 John Fink (he/they) is the Digital Scholarship Librarian at McMaster University Library. Their talents lie in complex and innovative systems administration and project management. He also has an interest in the maker/hacker element in digital scholarship, and is frequently spotted tinkering with esoteric hardware. If you are interested in having the Sherman Centre support your project, John is an excellent first contact.
 
 Katie is a learning support librarian who works with the Faculty of Engineering to help engineering students learn how to understand, find, read, interpret, and create different types of information sources. She has spent the last decade teaching and providing research support to students and researchers in science and engineering. Her recent projects have focused on the development of some exciting new open educational resources.
 
-<!--
-## Contents
-
-|Segment|Time Allotted|Key Topics / Activities|
-|:--|:--|:--|
-|**Introductory remarks**|20 minutes|Introduction to text preparation and analysis <br> Overview of concepts and methods <br> Key considerations for different source materials and analyses|
--->
 
   
 ## Workshop Recording
