@@ -15,6 +15,16 @@ In the first installment of this two-event series, learn more about the interdis
 [Register for this workshop](https://libcal.mcmaster.ca/calendar/scds/intro-ds1){: .btn .btn-outline }
 
   
+<div markdown="1" style="border: 1px solid #7a003c; border-radius: 6px; margin-bottom: 1em; padding: 0.5em 1em 0; margin-top: 1em;" class="toc">
+<summary style="cursor:default; display: block; border-bottom: 1px solid #302d36; margin-bottom: 0.5em">
+  Presentations
+</summary>
+- [Storying disability: Digital community archives as public memorial at New York’s Craig Colony for Epileptics](intro-ds1/storying-disability)
+- [The exotic Amazon and the exotic woman”: Practicing refusal through digital counter-storytelling](intro-ds1/counter-storytelling)
+- [Let’s talk! Academic podcast entanglements](intro-ds1/academic-podcast-entanglements)
+- [Fostering Creative Confidence: Reframing Ambiguity Through Storytelling and Design Fiction](intro-ds1/creative-confidence)
+</div>
+  
 ## Event Recording
 *Coming soon*.
 

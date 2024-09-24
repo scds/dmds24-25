@@ -14,7 +14,18 @@ In the second installment of this two-event series, learn more about the interdi
 
 [Register for this workshop](https://libcal.mcmaster.ca/calendar/scds/intro-ds2){: .btn .btn-outline }
 
-  
+
+<div markdown="1" style="border: 1px solid #7a003c; border-radius: 6px; margin-bottom: 1em; padding: 0.5em 1em 0; margin-top: 1em;" class="toc">
+<summary style="cursor:default; display: block; border-bottom: 1px solid #302d36; margin-bottom: 0.5em">
+  Presentations
+</summary>
+- [Developing standardized methods for transportation analysis](intro-ds2/standardized-transportation-analysis)
+- [Unlocking toddler activity insights: Introducing an easy-to-use machine learning tool for everyone](intro-ds2/toddler-activity-insights)
+- [Understanding the role of civil society in multistakeholder global platform governance at UNESCO](intro-ds2/civil-society-unesco)
+- [Understanding the nature and risks of welfare algorithmic harms](intro-ds2/welfare-algorithmic-harms)
+- [Breaking the silence: Understanding HPV vaccination gaps among canadian men](intro-ds2/breaking-the-silence)
+</div>
+
 ## Event Recording
 *Coming soon*.
 
