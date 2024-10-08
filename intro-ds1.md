@@ -26,9 +26,6 @@ In the first installment of this two-event series, learn more about the interdis
 </div>
   
 ## Event Recording
-*Coming soon*.
 
-<!--
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public"></iframe>
-[View original here.](https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public)
--->
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/b1bdb6b0-e4a8-4a82-9ea1-674e1ddf3f8d/public"></iframe>
+[View original here.](https://echo360.ca/media/b1bdb6b0-e4a8-4a82-9ea1-674e1ddf3f8d/public)
