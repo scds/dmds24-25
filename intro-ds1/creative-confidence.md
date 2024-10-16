@@ -14,9 +14,5 @@ As part of my ongoing work, I have developed a workshop that empowers students f
 **Fatima Nazir (she/her)** has a multidisciplinary background in applied psychology and human behaviour and is currently pursuing graduate studies in Engineering Design (Product Design). Passionate about storytelling and human-centered design, her work in research, design, and collaborative projects aims to create inclusive spaces that place people’s stories at the heart of product decisions. Her work spans from reimagining learning experiences and fostering creativity in education to advancing co-design practices in engineering and healthcare to address systemic challenges and improve outcomes. 
 
 ## Presentation Recording
-*Coming soon*.
-
-<!--
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public"></iframe>
-[View original here.](https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public)
--->
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/592a7960-55d2-41a3-9603-1fe7484cb8fc/public"></iframe>
+[View original here.](https://echo360.ca/media/592a7960-55d2-41a3-9603-1fe7484cb8fc/public)

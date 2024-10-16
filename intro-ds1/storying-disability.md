@@ -14,9 +14,5 @@ My project seeks to understand patient experiences with institutionalization at 
 **Katie Waring (she/her)** is a multimedia writer and doctoral candidate in the Communication, New Media, and Cultural Studies program at McMaster. Her research aims to understand the potential for community-engaged digital storytelling in highlighting suppressed histories. She holds an MFA in nonfiction writing from the University of Pittsburgh and her creative work has been published in literary journals such as The Normal School and American Literary Review, among others. She’s originally from New York State.
 
 ## Presentation Recording
-*Coming soon*.
-
-<!--
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public"></iframe>
-[View original here.](https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public)
--->
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/fabfb7e4-38ea-4f6e-9976-008d45c47c1c/public"></iframe>
+[View original here.](https://echo360.ca/media/fabfb7e4-38ea-4f6e-9976-008d45c47c1c/public)

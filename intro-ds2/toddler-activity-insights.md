@@ -14,9 +14,5 @@ This presentation will showcase the latest version of my new open-source tool to
 **Elyse Letts (she/her)** is a PhD student in Medical Sciences at McMaster University with the Child Health & Exercise Medicine Program. Her research focuses on improving physical activity and sedentary time measurement in toddlers as well as investigating the impact of physical activity on toddler health outcomes. Prior to joining McMaster, she completed an undergraduate degree (BSc) in Kinesiology at the University of Waterloo.  
 
 ## Presentation Recording
-*Coming soon*.
-
-<!--
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public"></iframe>
-[View original here.](https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public)
--->
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/d7a98aa0-4d50-44a5-b768-c5f368070b2e/public"></iframe>
+[View original here.](https://echo360.ca/media/d7a98aa0-4d50-44a5-b768-c5f368070b2e/public)

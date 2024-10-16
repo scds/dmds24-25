@@ -16,9 +16,5 @@ This project aims to address these gaps through a comprehensive online survey ta
 **Naharin Sultana Anni** is a Ph.D. candidate in Global Health at McMaster University, focusing on knowledge, attitudes, and practices related to HPV among men in Canada. Her research aims to provide insights that can shape effective public health strategies and promote inclusive HPV vaccination programs. She holds an MBBS from the University of Dhaka, Bangladesh, and a Master of Public Health (MPH) from Yonsei University, South Korea. 
 
 ## Presentation Recording
-*Coming soon*.
-
-<!--
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public"></iframe>
-[View original here.](https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public)
--->
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/1df05544-96e7-4a17-93ef-a493322a8e52/public"></iframe>
+[View original here.](https://echo360.ca/media/1df05544-96e7-4a17-93ef-a493322a8e52/public)

@@ -14,9 +14,5 @@ In October 2023, UNESCO released its 'Guidelines for the Governance of Digital P
 **Brad McNeil (He/Him)** is a Ph.D. candidate in the Department of Communication Studies and Media Arts at McMaster University.  His research interests lie at the multiple intersections between freedom of expression, content moderation, and platform governance. His doctoral research focuses on global platform governance, with special attention to the ways that international organizations such as Intergovernmental institutions and non-governmental organizations are structuring a vision of global platform governance.
 
 ## Presentation Recording
-*Coming soon*.
-
-<!--
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public"></iframe>
-[View original here.](https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public)
--->
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/3bcae2a5-5f99-4b2e-a0ea-d6b4c3245c14/public"></iframe>
+[View original here.](https://echo360.ca/media/3bcae2a5-5f99-4b2e-a0ea-d6b4c3245c14/public)

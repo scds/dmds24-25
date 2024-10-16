@@ -14,9 +14,5 @@ With the rise of the use of networked technologies and algorithms comes the inte
 **Anabelle Ragsag** is a PhD student at the School of Social Work who is interested in the politics and technologies of social assistance.  Originally from Mindanao, southern Philippines, Anabelle is a community organizer based in Hamilton. Through her program development and evaluation work; teaching, speaking and writing; and parenting, she tackles systemic inequities by building the capacity of racialized women, to collaborate with other women, to challenge structures, and to create spaces within and outside those that exclude them.
 
 ## Presentation Recording
-*Coming soon*.
-
-<!--
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public"></iframe>
-[View original here.](https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public)
--->
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/6559038f-a6b2-47aa-aa1d-462fb7fe5662/public"></iframe>
+[View original here.](https://echo360.ca/media/6559038f-a6b2-47aa-aa1d-462fb7fe5662/public)

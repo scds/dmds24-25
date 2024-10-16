@@ -14,9 +14,5 @@ Transportation poverty occurs when financial difficulties and transportation cha
 **Bruno dos Santos (He/Him)** is a Ph.D. student in the School of Earth, Environment & Society at McMaster University. He holds a M.Sc. in Remote Sensing from the National Institute for Space Research (São Paulo, Brazil). His doctoral research focuses on understanding how transportation acts as a barrier for individuals in finding or maintaining employment.  
 
 ## Presentation Recording
-*Coming soon*.
-
-<!--
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public"></iframe>
-[View original here.](https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public)
--->
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/91973ad5-5ff4-483f-850c-9442f1e6cfba/public"></iframe>
+[View original here.](https://echo360.ca/media/91973ad5-5ff4-483f-850c-9442f1e6cfba/public)

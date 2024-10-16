@@ -14,9 +14,5 @@ My project aims to be a creative digital intervention presenting illustrated AR 
 **Andrea Vela Alarcón (she/her/Ella)** is a community educator, illustrator and doctoral candidate in Communication, New Media, and Cultural Studies at McMaster University. Her academic, creative and pedagogical practices are rooted in anti-colonial approaches and feminist care ethics to facilitate spaces of critical conversations and creation geared toward a world beyond extraction. Through her work, Andrea collaborates with communities in the crafting of stories that center refusal and resistance for environmental justice. 
 
 ## Presentation Recording
-*Coming soon*.
-
-<!--
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public"></iframe>
-[View original here.](https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public)
--->
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/a831cdf2-ad74-49b1-b29a-c8298f9cf215/public"></iframe>
+[View original here.](https://echo360.ca/media/a831cdf2-ad74-49b1-b29a-c8298f9cf215/public)
