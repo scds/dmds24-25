@@ -12,9 +12,6 @@ has_toc: no
 
 In the first installment of this two-event series, learn more about the interdisciplinary, multifaceted, and emergent approaches to digital scholarship from our [2024 Graduate Residency](https://scds.ca/2024-grad-residents/) cohort.
 
-[Register for this workshop](https://libcal.mcmaster.ca/calendar/scds/intro-ds1){: .btn .btn-outline }
-
-  
 <div markdown="1" style="border: 1px solid #7a003c; border-radius: 6px; margin-bottom: 1em; padding: 0.5em 1em 0; margin-top: 1em;" class="toc">
 <summary style="cursor:default; display: block; border-bottom: 1px solid #302d36; margin-bottom: 0.5em">
   Presentations
