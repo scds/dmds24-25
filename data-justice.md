@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cybersecurity, Critical Data, and Social Justice
+title: Data Security, Data Justice
 nav_order: 2024.919
 ---
 
