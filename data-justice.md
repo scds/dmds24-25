@@ -12,7 +12,7 @@ This spring, Hamilton was incapacitated by a ransomware attack we are still reco
 In this 1.5-hour webinar, learn more about cybersecurity and data justice. We'll start with best practices for keeping data safe, the context of equity in relation to data breaches, critical data visualization, and approaches to involving research participants in how their data is managed. Then, we'll unpack ripped-from-the-headlines case studies to explore social justice implications.
 
 The **learning outcomes** for this session include: 
-- Describing best practices for keeping data safe.
+- Describing best practices for keeping data safe.
 - Contextualizing equity in relation to data breaches and data visualization.
 - Contrasting approaches to involving research participants in how their data is managed.
 - Examining facets of inequity in cybersecurity using real-life case studies.
