@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Security, Data Justice
-nav_order: 2024.919
+nav_order: 2024.919
 ---
 
 <img src="assets/img/data-justice.png" alt="Workshop Title Slide" width="100%">
@@ -34,7 +34,6 @@ Danica Evering holds broad experience with research support, education, project 
 |:--|:--|:--|
 |**Introductory remarks**|20 minutes|Introduction to text preparation and analysis <br> Overview of concepts and methods <br> Key considerations for different source materials and analyses|
 -->
-
   
 ## Workshop Recording
 *Coming soon*.
