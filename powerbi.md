@@ -13,7 +13,7 @@ This workshop covers the basic of using Power BI to create visualizations. We wi
 [Register for this workshop](https://libcal.mcmaster.ca/calendar/scds/powerbi){: .btn .btn-outline }
 
 ## Workshop Preparation 
-Access to Power BI is required. McMaster members can access the desktop or online version [here](https://office365.mcmaster.ca/office-365-3/applications/power-bi/getting-started-with-power-bi/). Those without access to Power BI through their organization may be able to access a [free trial](https://www.microsoft.com/en-us/power-platform/products/power-bi/getting-started-with-power-bi) via Microsoft, so that they can participate in the workshop.
+Access to Power BI is required. McMaster members can access the desktop version [here](https://office365.mcmaster.ca/office-365-3/applications/power-bi/getting-started-with-power-bi/). Those without access to Power BI through their organization may be able to access a [free trial](https://www.microsoft.com/en-us/power-platform/products/power-bi/getting-started-with-power-bi) via Microsoft, so that they can participate in the workshop. Please note that the desktop version only works with Windows OS; participants can instead use Power BI online but it has much more limited features.
 
 ## Facilitator Bios
 
