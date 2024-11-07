@@ -15,6 +15,8 @@ This workshop covers the basic of using Power BI to create visualizations. We wi
 ## Workshop Preparation 
 Access to Power BI is required. McMaster members can access the desktop version [here](https://office365.mcmaster.ca/office-365-3/applications/power-bi/getting-started-with-power-bi/). Those without access to Power BI through their organization may be able to access a [free trial](https://www.microsoft.com/en-us/power-platform/products/power-bi/getting-started-with-power-bi) via Microsoft, so that they can participate in the workshop. Please note that the desktop version only works with Windows OS; participants can instead use Power BI online but it has much more limited features.
 
+The data that we will be using during the workshop can be downloaded [here](https://github.com/scds/intro-tableau/raw/main/data/humdata_GHGEmissionsGES.xlsx).
+
 ## Facilitator Bios
 
 Subhanya Sivajothy (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user. She also has experience in Research Data Management—particularly data cleaning and curation. Do not hesitate to reach out to her if you would like to talk more about data analysis and visualization as they evolve throughout the research process.
