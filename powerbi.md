@@ -21,8 +21,8 @@ Subhanya Sivajothy (she/her) brings a background of research in data justice, sc
 
 ## Workshop Recording
 
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public"></iframe>
-[View original here.](https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public)
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/4f2b036b-c2ee-4dba-b6cf-18b6a6f562d8/public"></iframe>
+[View original here.](https://echo360.ca/media/4f2b036b-c2ee-4dba-b6cf-18b6a6f562d8/public)
 
 
 <!-- ## Workshop Slides
