@@ -10,41 +10,15 @@ nav_order: 2025.058
 
 Learn how to use Omeka S to manage digital collections and create scholarly exhibits. This tutorial will introduce participants to the basic functions of Omeka S, including how to create an archival item collection, add metadata, and build a digital exhibit.
 
-[Register for this workshop](https://libcal.mcmaster.ca/calendar/scds/omeka){: .btn .btn-outline }
-
 ## Workshop Preparation 
 Workshop participants will use the Omeka S sandbox available on the [Omeka.org website](https://omeka.org/s/download/#sandbox). No signup is required, though work will not be saved.
 
 ## Facilitator Bio
 Subhanya Sivajothy (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user.
-
-<!--
-## Contents
-
-|Segment|Time Allotted|Key Topics / Activities|
-|:--|:--|:--|
-|**Introductory remarks**|20 minutes|Introduction to text preparation and analysis <br> Overview of concepts and methods <br> Key considerations for different source materials and analyses|
--->
-
   
 ## Workshop Recording
-*Coming soon*.
 
-<!--
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public"></iframe>
-[View original here.](https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public)
--->
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/c2aa84ca-0ff2-4e88-8abe-ce00ced5750b/public"></iframe>
+[View original here.](https://echo360.ca/media/c2aa84ca-0ff2-4e88-8abe-ce00ced5750b/public)
 
-## Workshop Slides
-*Coming soon*.
-
-<!--
-<embed src="assets/docs/textAnalysisSlides.pdf" style="border:none;" width="100%" height="466px">
-[Download as PDF.](assets/docs/textAnalysisSlides.pdf)
--->
-
-<!--
-## Links and Resources 
-- [Constellate](https://constellate.org/) is a text analysis learning and analysis platform supported by JSTOR Labs and ITHAKA. 
--->
 
